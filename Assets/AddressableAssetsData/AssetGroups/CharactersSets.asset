@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: CharactersSets
+  m_EditorClassIdentifier: 
+  m_GroupName: CharactersSets
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 43b88736192565b45b98d50949036b78
+  m_SerializeEntries:
+  - m_GUID: a000d5b98fc76a54595d66ac7f816424
+    m_Address: Blue car
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - charactersSet
+    - charactersSets
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: d1fcdc7eab5e6e244b85a140f38d5053
+    m_Address: Red car
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - charactersSet
+    - charactersSets
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: daa31be7792841544bd6cffcca1c231b
+    m_Address: ZoneCollider
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 735e874f947d0e143a6b4e83f8a7283a, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 0f2fafc27be575049b97bbd263bcced7, type: 2}
+    - {fileID: 11400000, guid: 839b7c0d17039c943907d05d8bdef8a1, type: 2}

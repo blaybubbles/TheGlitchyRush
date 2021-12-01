@@ -1,0 +1,13 @@
+<linker>
+	<assembly fullname="UnityEngine">
+		<type fullname="UnityEngine.Animator" preserve="all" />
+		<type fullname="UnityEngine.MeshRenderer" preserve="all" />
+		<type fullname="UnityEngine.SkinnedMeshRenderer" preserve="all" />
+		<type fullname="UnityEngine.MeshFilter" preserve="all" />
+		<type fullname="UnityEngine.Advertisements" preserve="all" />
+    <type fullname="UnityEngine.SpriteRenderer" preserve="all" />
+    <type fullname="UnityEngine.CoreModule" preserve="all" />
+		
+	</assembly>
+	<assembly fullname="Unity.Addressables" preserve="all" />
+</linker>
