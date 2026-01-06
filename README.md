@@ -21,15 +21,6 @@ Run through shifting worlds (from medieval vibes to near-future), dodge obstacle
 - Language: **C#**
 - Platform: **HTML5 (Web build)**
 
-## Screenshots
-Put images into `images/` and update the filenames below if needed:
-
-![Gameplay screenshot](images/screenshot-1.png)
-![Another scene](images/screenshot-2.png)
-
-Optional GIF:
-![Gameplay GIF](images/gameplay.gif)
-
 ## Dev Notes
 - Time spent: **~1 week** (within the ~4-week jam window)
 - Scope: small, jam-sized project (prototype → playable release)
